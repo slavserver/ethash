@@ -20,3 +20,4 @@ The main thing above all is code consistency.
 - Keep the line lengths reasonable. No hard limit on 80 characters but don't go further
   than 110. Some people work with multiple buffers next to each other.
   Make them like you :)
+slav
